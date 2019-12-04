@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 //注解controller
 /*
- * 123
+ * 456
  */
 @Controller
 public class MyController {
