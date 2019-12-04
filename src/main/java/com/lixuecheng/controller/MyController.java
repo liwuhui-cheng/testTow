@@ -14,6 +14,6 @@ public class MyController {
 		  
 		  //返回页面
 		  return  "list";
-		  
+		  //A：增加了一条注释
 	  }
 }
