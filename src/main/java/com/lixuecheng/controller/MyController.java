@@ -15,5 +15,7 @@ public class MyController {
 		  //返回页面
 		  return  "list";
 		  //A：增加了一条注释
+		  
+		  //A：我喜欢大海，我爱过你
 	  }
 }
