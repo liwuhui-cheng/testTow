@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class MyController {
 
 	
-	//请求的地址返回到list页面
+	//请求的地址返回到list页面111
 	  @RequestMapping("list")
 	  public   String   list() {
 		  
